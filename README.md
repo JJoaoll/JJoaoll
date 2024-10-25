@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : functional programming
 - 📫 How to reach me               : joao.pereira.016@ufrn.edu.br
 - 😄 Pronouns                      : λ / Λ
-- ⚡ Fun fact                      : (λx. x x) (λx. x x)
+- ⚡ Fun fact                      : (λx. x x) (λx. x x) can be useful 
 
 <!---
 JJoaoll/JJoaoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
