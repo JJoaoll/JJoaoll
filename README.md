@@ -2,7 +2,7 @@
 - 👀 I’m interested in             : functional programming 
 - 🌱 I’m currently learning        : functional programming 
 - 💞️ I’m looking to collaborate on : functional programming
-- 📫 How to reach me               : joao.pereira.016@ufrn.edu.br
+- 📫 How to reach me               : joaoduos@gmail.com
 - 😄 Pronouns                      : λ / Λ
 - ⚡ Fun fact                      : (λx. x x) (λx. x x) can be useful 
 
